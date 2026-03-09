@@ -16,15 +16,11 @@
 
 ## リリースバージョン
 
-- [ダウンロード](https://github.com/nnnstet/WorldMaterial_mana/releases)
+- [ダウンロード](https://github.com/nnnstet/WorldMaterial_Mana/releases)
 - [参照](https://github.com/nnnstet/WorldMaterial_Mana/tags)
 
 ## 目次
 
-- [世界の法則](/world)
-  - 魔法・魔術
-  - 超能力
-- [歴史](/history)
-- [キャラクター](/character)
-  - 種族
-  - 主要キャラクター
+- [世界の法則](world/README.md)
+- [歴史](history/README.md)
+- [キャラクター](character/README.md)
